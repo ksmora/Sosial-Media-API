@@ -5,6 +5,8 @@ project API sosial media sederhana menggunakan framework Laravel, upload kode ke
 3.	Manfaatkan eloquent dan relasi nya
 4.	Implementasikan clean code
 
+## Dokumentasi API Menggunakan Postman
+https://documenter.getpostman.com/view/16249563/2sA3JGg4Pi
 ## design database
 <img width="481" alt="image" src="https://github.com/ksmora/Sosial-Media-API/assets/87814220/9b04652b-5982-4b30-b67f-4e85fdb31f0d">
 
