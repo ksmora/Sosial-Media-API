@@ -14,7 +14,8 @@ project API sosial media sederhana menggunakan framework Laravel, upload kode ke
 
 ## List Task 
 
-![image](https://github.com/ksmora/Sosial-Media-API/assets/87814220/9c49532a-0d78-4f56-a93f-3a97cbab4ef7)
+<img width="407" alt="image" src="https://github.com/ksmora/Sosial-Media-API/assets/87814220/cef747a5-14f1-482e-815a-c8416fb7b475">
+
 
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
