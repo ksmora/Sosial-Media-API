@@ -22,7 +22,8 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Laravel Sponsors
 
-![image](https://github.com/ksmora/Sosial-Media-API/assets/87814220/c3448ff1-45d2-409c-87fe-a1aa47e15108)
+![image](https://github.com/ksmora/Sosial-Media-API/assets/87814220/9c49532a-0d78-4f56-a93f-3a97cbab4ef7)
+
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
