@@ -12,7 +12,7 @@ https://documenter.getpostman.com/view/16249563/2sA3JGg4Pi
 
 
 ## gambar database
-<img width="441" alt="image" src="https://github.com/ksmora/Sosial-Media-API/assets/87814220/373385b9-fe44-4bd5-8cf9-1d193aafc3de">
+<img width="441" alt="image" src="https://github.com/ksmora/Sosial-Media-API/assets/87814220/e8a7cfe5-5959-4216-9bd0-9f5519f30dd9">
 
 
 ## List Task 
