@@ -8,7 +8,7 @@ project API sosial media sederhana menggunakan framework Laravel, upload kode ke
 ## Dokumentasi API Menggunakan Postman
 https://documenter.getpostman.com/view/16249563/2sA3JGg4Pi
 ## design database
-![image](https://github.com/ksmora/Sosial-Media-API/assets/87814220/2bc96896-514b-4d97-8efe-5da95b83f9b3)
+<img width="441" alt="image" src="https://github.com/ksmora/Sosial-Media-API/assets/87814220/2bc96896-514b-4d97-8efe-5da95b83f9b3">
 
 
 ## gambar database
@@ -16,8 +16,7 @@ https://documenter.getpostman.com/view/16249563/2sA3JGg4Pi
 
 
 ## List Task 
-
-<img width="407" alt="image" src="https://github.com/ksmora/Sosial-Media-API/assets/87814220/cef747a5-14f1-482e-815a-c8416fb7b475">
+<img width="407" alt="image" src="https://github.com/ksmora/Sosial-Media-API/assets/87814220/d5d41198-5c1e-41a0-816c-dee6dd39cf9c">
 
 
 
